@@ -11,6 +11,9 @@ main:
   - name: "About"
     url: "/about/"
     weight: 4
+  - name: "Testy"
+    url: "/testy/"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
